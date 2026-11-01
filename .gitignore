@@ -1,0 +1,16 @@
+# MATLAB autosaves and generated Simulink files
+*.asv
+*.slxc
+*.slx.autosave
+slprj/
+*_rtw/
+codegen/
+microgrid_cache/
+*.mexw64
+*.mexa64
+*.mexmaci64
+# Local session files
+*.mat
+*.log
+.DS_Store
+Thumbs.db
